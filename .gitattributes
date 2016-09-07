@@ -1,0 +1,22 @@
+* 			text=auto
+.gitattributes	text eol=native
+*.java		text eol=lf
+*.txt		text eol=native
+Dockerfile	text eol=native
+LICENSE		text eol=native
+*.md		text eol=native
+*.json		text
+*.csv		text
+*.vcproj	eol=crlf
+*.sln	eol=crlf
+*.bat		eol=crlf
+*.sh		eol=lf
+*.py		eol=lf
+*.cpp		eol=lf
+*.cc		eol=lf
+*.cxx		eol=lf
+*.c++		eol=lf
+*.h		eol=lf
+*.mm		text eol=native
+*.hpp		-text
+*.png		-text
